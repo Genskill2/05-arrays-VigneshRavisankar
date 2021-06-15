@@ -37,7 +37,6 @@ float average(int a[],int n)
 	avg=sum/n;
 	return avg;
 }
-/mode function/
 int mode(int a[],int n)
 {
 	int lmax=max(a,n);
